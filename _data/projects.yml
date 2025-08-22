@@ -1,0 +1,19 @@
+- title: "PhD Proposal: AI for ECG Autodiagnosis"
+  repo: "https://github.com/simfull-cardio-ai/phd-proposal-ecg-ml"
+  blurb: "Problem framing, literature synthesis, methods plan, milestones."
+
+- title: "Introductory Papers for PhD"
+  repo: "https://github.com/simfull-cardio-ai/papers-intro-to-phd"
+  blurb: "Short papers on datasets, regulatory pathways, and baseline methods."
+
+- title: "ECG Baseline Models"
+  repo: "https://github.com/simfull-cardio-ai/project-ecg-baselines"
+  blurb: "Starter pipelines and benchmarks for ECG classification."
+
+- title: "OECD Healthcare Utilisation Dashboard"
+  repo: "https://github.com/NooruldeenTaffar/pgcert-data-science-projects"
+  blurb: "Policy dashboard with cross‑country comparisons and trends."
+
+- title: "MSc Systematic Review: Gamification in Healthcare"
+  repo: "https://github.com/NooruldeenTaffar/msc-systematic-review-gamification"
+  blurb: "Synthesis of gamification effects and design features in health."
