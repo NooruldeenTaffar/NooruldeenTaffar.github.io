@@ -1,0 +1,28 @@
+name: "Nooruldeen Taffar"
+tagline: "Health Informatics & AI in Cardiology"
+location: "Edinbrugh, UK"
+email: "nooriskander94@gmail.com"
+links:
+  github: "https://github.com/NooruldeenTaffar"
+  org: "https://github.com/simfull-cardio-ai"
+  linkedin: "https://www.linkedin.com/in/nooruldeen-taffar-5bb34b217/"
+summary: >
+  Medical doctor (MBChB, Iraq), MSc in Health Informatics (Swansea University),
+  PgDip in Data Science for Health & Social Care (University of Edinburgh).
+  Preparing a PhD proposal on machine learning for ECG autodiagnosis; interests in
+  digital health, cardiology AI, dashboards, and deployable ML in low‑resource settings.
+education:
+  - degree: "PGCert, Data Science for Health & Social Care"
+    org: "University of Edinburgh"
+    year: "2025 (in progress)"
+  - degree: "MSc, Health Informatics"
+    org: "Swansea University"
+    year: "2021"
+  - degree: "MBChB (Medicine)"
+    org: "Iraq"
+    year: "2018"
+skills:
+  - "Python, R, SQL, Tableau"
+  - "Jupyter, R Markdown"
+  - "ML for time series/ECG"
+  - "Health informatics & clinical context"
