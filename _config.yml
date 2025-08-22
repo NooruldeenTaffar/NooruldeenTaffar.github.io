@@ -2,5 +2,8 @@ title: "Nooruldeen Taffar"
 description: "Academic Portfolio | Health Informatics & AI in Cardiology"
 theme: minima
 
-github_username: NooruldeenTaffar
-linkedin_username: nooruldeen-taffar
+# show pages in top nav
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
